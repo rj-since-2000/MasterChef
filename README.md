@@ -1,6 +1,7 @@
-# mealapp_14_finished
+# MasterChef
 
 A new Flutter project.
+A cooking recipe app to help you cook your best foods from variety of tastes and cuisine
 
 ## Getting Started
 
